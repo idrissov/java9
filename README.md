@@ -1,1 +1,2 @@
-# java9
+Create the 2 modules with the services (different amount of the methods and signature).
+Config the load it according to condition (any to you choose), make executable and check that appropriate module is loading (according to condition).
